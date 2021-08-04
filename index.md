@@ -1,37 +1,118 @@
-## Welcome to GitHub Pages
+# Nicolas Morice
 
-You can use the [editor on GitHub](https://github.com/nmorice/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Software engineer (and sometimes still a journalist) based in Lisboa, Portugal_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:bonjournico@pm.me) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/nicolas-morice/) / [GitHub](https://github.com/nmorice/) / [DEV](https://dev.to/bonjournico)
 
-### Markdown
+## 👩🏼‍💻 Technical Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Chief Technology Officer** @ [TOOGONET](https://toogonet.com/) _(Jan 2014 - Present)_ <br>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-```markdown
-Syntax highlighted code block
+**Chief Executive Officer** @ [TOOGONET](https://toogonet.com/) _(Jan 2016 - Dec 2018)_ <br>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  - Ownership of Product Design
+  
+**General Manager | Founder** @ [La Porte Rouge](https://www.instagram.com/laporterouge.bolivia/) _(Jan 2018 - Dec 2019)_ <br>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. 
+  - Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  - Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-# Header 1
-## Header 2
-### Header 3
+  - Created a cross-functional, agile team to rebuild and rebrand ...
+<br><br>
 
-- Bulleted
-- List
+**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  - Built the ... 
+  - Maintained ...  
+  - **_Technologies used:_** TypeScript, React, Node.js, GraphQL, REST, Python.
+  - Extended and maintained a company-wide design system
+  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
+  <br><br>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**Fullstack Engineer** @ [TOOGONET](https://toogonet.com/) _(Jun 2010 - Present)_ <br>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. 
+  - Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  - Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  - **_Technologies used:_** Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<br><br>
 
-[Link](url) and ![Image](src)
-```
+## 📌 On The Side
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Lorem Ipsum** @ [Lorem Ipsum](https://lorem.ipsum/) _(Period)_ <br>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. 
+  - Duis aute irure dolor in reprehenderit in voluptate velit esse. 
+  - Excepteur sint occaecat cupidatat non proident, sunt in culpa qui mollit.
+  <br><br>
 
-### Jekyll Themes
+**Lorem Ipsum** @ [Lorem Ipsum](https://lorem.ipsum/) _(Period)_ <br>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. 
+  - Duis aute irure dolor in reprehenderit in voluptate velit esse. 
+  - Excepteur sint occaecat cupidatat non proident, sunt in culpa qui mollit.
+  <br><br>
+  
+**Lorem Ipsum** @ [Lorem Ipsum](https://lorem.ipsum/) _(Period)_ <br>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. 
+  - Duis aute irure dolor in reprehenderit in voluptate velit esse. 
+  - Excepteur sint occaecat cupidatat non proident, sunt in culpa qui mollit.
+  <br><br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nmorice/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 💬 Languages
+**French**: Native <br>
+**English**: Fluent (First Certificate) <br>
+**Spanish**: Fluent (daily use) <br>
+**Portuguese**: learning <br>
 
-### Support or Contact
+<br><br>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 👩🏼‍🎓 Education
+
+**Lorem Ipsum** Lorem Ipsum<br>
+[School](https://Lorem.Ipsum) - Place, Country _(Date Year)_
+
+**Lorem Ipsum** Lorem Ipsum<br>
+[School](https://Lorem.Ipsum) - Place, Country _(Date Year)_
+
+**Lorem Ipsum** Lorem Ipsum<br>
+[School](https://Lorem.Ipsum) - Place, Country _(Date Year)_
+
+**Lorem Ipsum** Lorem Ipsum<br>
+[School](https://Lorem.Ipsum) - Place, Country _(Date Year)_
