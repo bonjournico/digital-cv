@@ -1,8 +1,8 @@
 # Nicolas Morice
 
-_Software engineer (and sometimes still a journalist) based in Lisboa, Portugal_ <br>
+_Fullstack developer and Agile Project manager based in Lisboa, Portugal_ <br>
 
-[Email](mailto:bonjournico@pm.me) / [LinkedIn](https://www.linkedin.com/in/nicolas-morice/) / [GitHub](https://github.com/nmorice/) / [DEV](https://dev.to/bonjournico)
+[Email](mailto:bonjournico@pm.me) / [LinkedIn](https://www.linkedin.com/in/nicolas-morice/) / [DEV](https://dev.to/bonjournico)
 
 ## 🙋‍♂️ Management Experience
 **Chief Technology Officer** @ [TOOGONET](https://toogonet.com/) _(Jan 2014 - Aug 2021)_ <br>
@@ -13,6 +13,7 @@ Toogonet provides a SaaS platform Toogo and on demand services to Destination Ma
   - Planned and executed the launch of a variety of new products that enforced Toogo as a leader platform on the market for DMC companies ERPs and helped to preserve customer retention.
 - As technology evolves, bringing new technology to the table was essential, so I encouraged my team to regularly reassess the tools used.
 <br><br>
+
 **Chief Executive Officer** @ [TOOGONET](https://toogonet.com/) _(Jan 2016 - Dec 2018)_ <br>
 Toogonet provides SaaS and on demand services to Destination Management Companies. While in a changing situation, I volunteered to step up to the role of CEO.
   - Implemented processes that improve the sales team operations
@@ -22,6 +23,7 @@ Toogonet provides SaaS and on demand services to Destination Management Companie
   - Increased the company margin by +140% during my administration
   - Won privileged relationships with customers
 <br><br> 
+
 **General Manager | Founder** @ [La Porte Rouge Restaurant](https://www.instagram.com/laporterouge.bolivia/) _(Jan 2018 - Dec 2019)_ <br>
 Outside of IT, this personnal food project started with the simple idea of "Why not ?". Teamed up with a bolivian chef specialized in basque food, we launched and succeeded in bringing to life a gourmet and cosy restaurant to the altitudes of the Andes. 
   - Planned and created a restaurant place with a very limited budget (and stayed under it).
@@ -53,7 +55,7 @@ With the responsabilities mentionned above, I kept on participating in daily dev
 [Universidad Nacional de Cuyo](https://www.uncuyo.edu.ar/estudios/carrera/ingenieria-industrial) - _Mendoza, Argentina (2009 - 2010)_
 <br><br>
 
-## 👩🏼‍💻 Student internships
+## 👨‍🔬 Student internships
 **Support Team intern** @ [ITC SA](http://www.itcsa.net.ar) _(Mendoza, Argentina, 2009)_ <br>
 ITC SA is the leader internet provider in Mendoza, Argentina. I created the technical documentation for the company network supervision software.
 <br><br>
